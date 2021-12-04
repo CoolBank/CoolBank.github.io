@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CoolBank/coolbank.github.io/"
+    "url": "https://github.com/CoolBank/CoolBank.github.io/"
   },
   "keywords": [
     "documentation",
@@ -20,7 +20,7 @@
   ],
   "author": "horsemenzippo <horsemenzippo@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/CoolBank/coolbank.github.io",
+  "homepage": "https://github.com/CoolBank/CoolBank.github.io",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.2",
     "@vuepress/plugin-medium-zoom": "^1.8.2",

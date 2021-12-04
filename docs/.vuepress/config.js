@@ -50,7 +50,7 @@ module.exports = (_ctx) => ({
   theme: '@vuepress/theme-default',
 
   themeConfig: {
-    repo: 'CoolBank/coolbank.github.io',
+    repo: 'CoolBank/CoolBank.github.io',
     docsDir: 'packages/docs/dist',
     editLinks: true,
     logo: '/favicon.ico',
